@@ -3,3 +3,22 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+.main-visual{
+	height: 400px;
+	padding: 20px;
+	background-image: url(img/mv.jpg);
+	background-size: cover;
+	background-position: bottom;
+}
+.visual-text{
+	color: grey;
+}
+.bigbox{
+	margin: 50px;
+}
+.box{
+	width: 840px;
+	margin: 0 auto;
+	padding: 30px 0;
+	border-bottom: 1px solid grey;
+}
